@@ -1,0 +1,9 @@
+[package]
+name = "file_manager_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+argh = "0.1.12"
+crossterm = "0.27.0"
+tui = "0.19.0"
